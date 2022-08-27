@@ -16,6 +16,10 @@
   ],
   "author": "Benbinbin <benthomsonbin@gmail.com> (https://www.benbinbin.com)",
   "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Benbinbin/remark-sub.git"
+    },
   "dependencies": {
     "unist-util-visit": "^4.1.0"
   }
