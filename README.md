@@ -21,3 +21,4 @@ remark().use(remarkSub).process(doc).then(file => {
 ```
 
 ## License
+[MIT](./LICENSE)
